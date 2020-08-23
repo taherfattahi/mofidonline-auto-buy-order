@@ -1,0 +1,20 @@
+{
+  "name": "mofidOnlineAutoBuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "taher fattahi",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "cron-time-generator": "^1.0.4",
+    "cronr": "^2.2.1",
+    "form-data": "^3.0.0",
+    "node-cron": "^2.0.3",
+    "puppeteer": "^5.2.0",
+  }
+}
